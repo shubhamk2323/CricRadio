@@ -1,5 +1,5 @@
-![CricRadio#2](https://github.com/user-attachments/assets/4f94764a-ec0d-475b-bbbc-28aa9336df20)
-Wishlist App
+
+Cric Radio
 
 Overview:
 
@@ -43,6 +43,6 @@ Future Enhancements:
     Add detailed match statistics (batsmen, bowlers, partnerships).
     Improve UI with animations and themes.![CricRadio#2](https://github.com/user-attachments/assets/ca765f44-dfea-4dca-8d59-ac982cc5d94e)
 ![CricRadio#1](https://github.com/user-attachments/assets/5052130f-0d30-4276-9cc5-73b16a7b1fac)
-
+![CricRadio#2](https://github.com/user-attachments/assets/4f94764a-ec0d-475b-bbbc-28aa9336df20)
 
 
